@@ -1,7 +1,11 @@
 👋 Dear reader, I am Henry M. Ceresetti!
+
 👀 I am interested in web and software development.
+
 🌱 I am currently learning Java for backend web development.
+
 💞️ I am looking to collaborate on retrogaming projects.
+
 📫 How you can reach me: you can contact me by my LinkedIn personal profile.
 
 * LinkedIn Personal Profile: https://www.linkedin.com/in/henry-melo-ceresetti-445601235/
