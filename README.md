@@ -1,12 +1,12 @@
-- 👋 Hi, I am @HenryCeresetti
-- 👀 I am interested in computational programming and web development.
-- 🌱 I am currently learning HTML, CSS and JavaScript.
-- 💞️ I am looking to collaborate on... (I still do not have something to collaborate on GitHub.)
-- 📫 How to reach me: at this present moment, you can contact me via Linkedin (I am open to work).
+👋 Dear reader, I am Henry M. Ceresetti!
+👀 I am interested in web and software development.
+🌱 I am currently learning Java for backend web development.
+💞️ I am looking to collaborate on retrogaming projects.
+📫 How you can reach me: you can contact me by my LinkedIn personal profile.
 
-- Linkedin Personal Account Profile: https://www.linkedin.com/in/henry-melo-ceresetti-445601235/
+* LinkedIn Personal Profile: https://www.linkedin.com/in/henry-melo-ceresetti-445601235/
 
-Thanks for taking your time to read this.
+Thank you for taking your time to read this file!
 <!---
 HenryCeresetti/HenryCeresetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
