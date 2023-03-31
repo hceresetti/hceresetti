@@ -6,7 +6,7 @@
 
 💞️ I am looking to collaborate on retrogaming projects.
 
-📫 How you can contact me: create a new private chat willing to send a message to my LinkedIn personal profile: https://www.linkedin.com/in/henryceresetti/
+📫 How you can contact me: check my social network accounts on my GitHub public developer webpage, then you can send a message on a private chat to any of them.
 
 Thank you for taking your time to read this file!
 <!---
