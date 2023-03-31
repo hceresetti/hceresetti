@@ -1,14 +1,12 @@
 👋 Dear reader, I am Henry M. Ceresetti!
 
-👀 I am interested in web and software development.
+👀 I am interested on web systems development (both frontend and backend parts) and some things about software development (mainly free and open source projects).
 
-🌱 I am currently learning Java for backend web development.
+🌱 I am currently learning TypeScript web programming language allied with Angular web framework on frontend and Java Plataform based on Enterprise Edition on backend counterpart.
 
 💞️ I am looking to collaborate on retrogaming projects.
 
-📫 How you can reach me: you can contact me by my LinkedIn personal profile.
-
-* LinkedIn Personal Profile: https://www.linkedin.com/in/henry-melo-ceresetti-445601235/
+📫 How you can contact me: create a new private chat willing to send a message to my LinkedIn personal profile: https://www.linkedin.com/in/henryceresetti/
 
 Thank you for taking your time to read this file!
 <!---
