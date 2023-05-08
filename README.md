@@ -1,8 +1,8 @@
-👋 Dear reader, I am Henry M. Ceresetti!
+👋 Dear reader, I am Henry Ceresetti!
 
-👀 I am interested on web systems development (both frontend and backend parts) and some things about software development (mainly free and open source projects).
+👀 I am interested in remote systems development (both frontend and backend portions) and some stuff related to software development, mainly free and open source projects.
 
-🌱 I am currently learning TypeScript web programming language allied with Angular web framework on frontend and Java Plataform based on Enterprise Edition on backend counterpart.
+🌱 I am currently learning TypeScript web programming language allied with Angular web framework on frontend and Java Plataform based on Enterprise Edition associated with backend counterpart.
 
 💞️ I am looking to collaborate on retrogaming projects.
 
