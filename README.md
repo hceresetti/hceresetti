@@ -1,9 +1,3 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/10/47/76/1047769c08a854b5317f53902a5bdf6a.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/10/47/76/1047769c08a854b5317f53902a5bdf6a.jpg">
-    <img alt="Flag of Imperial Brazil with Kirino Kousaka, a ficticious Japanese anime character, overposted on the right side from the flag picture. She is customized using a equivalent uniform of the Brazilian Integralists. The picture is intended to remark the Brazilian Integralism, known for supporting the union of all a society, its principles and values." src="https://i.pinimg.com/736x/10/47/76/1047769c08a854b5317f53902a5bdf6a.jpg">
-</picture>
-
 ## About me
 
 Hi, I'm Henry Ceresetti. You might recognize me as an autonomous web developer.
@@ -25,12 +19,7 @@ Hi, I'm Henry Ceresetti. You might recognize me as an autonomous web developer.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hceresetti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-<details>
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hceresetti&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-</details>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hceresetti&repo=alura-tracker-ng&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
@@ -40,7 +29,10 @@ Hi, I'm Henry Ceresetti. You might recognize me as an autonomous web developer.
 
 — Plínio Salgado
 
-<!-- TODO: add more details about me later -->
+<!--
+TODO: add more details about me later
+-->
+
 <!---
 HenryCeresetti/HenryCeresetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
