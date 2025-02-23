@@ -21,12 +21,6 @@ Hi, I'm Henry Ceresetti. You might recognize me as an autonomous web developer.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hceresetti&repo=alura-tracker-ng&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/hceresetti/alura-tracker-ng)-->
 
----
-
-> Convince yourself and then you will convince others.
-
-— Plínio Salgado
-
 <!--
 TODO: add more details about me later
 -->
